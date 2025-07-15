@@ -33,7 +33,7 @@ Es divisible por 3 y 5, pero como el primer if se cumple (x % 3 === 0), ya no se
 
 */
 
-
+for (let x=0; x<= 50; x++){}
 
 
 for (let x = 1; x<= 100;  x++) {

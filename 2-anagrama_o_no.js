@@ -54,7 +54,7 @@ function  sonAnagramas (palabra1, palabra2) {
 
 }
 
-console.log(sonAnagramas("roma","amor"));
+console.log(sonAnagramas("jamon","monja"));
 console.log(sonAnagramas("roma", "romas")); // no es un anagrama
 console.log(sonAnagramas("roma", "roma")); // no es un anagrama
 
